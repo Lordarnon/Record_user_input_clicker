@@ -1,0 +1,9 @@
+c:\users\paul.adair\documents\visual studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\bin\Debug\Record_user_input_clicker.exe.config
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\bin\Debug\Record_user_input_clicker.exe
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\bin\Debug\Record_user_input_clicker.pdb
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\obj\Debug\Record_user_input_clicker.csprojResolveAssemblyReference.cache
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\obj\Debug\Record_user_input_clicker.Properties.Resources.resources
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\obj\Debug\Record_user_input_clicker.csproj.GenerateResource.Cache
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\obj\Debug\Record_user_input_clicker.exe
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\obj\Debug\Record_user_input_clicker.pdb
+C:\Users\paul.adair\Documents\Visual Studio 2015\Projects\Record_user_input_clicker\Record_user_input_clicker\obj\Debug\Record_user_input_clicker.Form1.resources
